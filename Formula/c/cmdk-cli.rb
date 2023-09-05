@@ -1,9 +1,9 @@
 class CmdkCli < Formula
     desc "The CommandK CLI"
     homepage ""
-    version "0.1.2"
-    url "https://github.com/commandk-dev/cli/releases/download/v0.1.2/cmdk-cli-client-0.1.2-osx-x86_64.zip"
-    sha256 "2a97229a48c09c5d37b54ff585f953a6a46521a7a6215bc7d9be9498e7667283"
+    version "0.1.3"
+    url "https://github.com/commandk-dev/cli/releases/download/v0.1.3/cmdk-cli-client-0.1.3-osx-x86_64.zip"
+    sha256 "de49c3bb0d4030f683c000c3f88cee35312c29b334d5f8e2e30179eab4f527ee"
     license ""
   
     def install
